@@ -1,5 +1,5 @@
-from event import Event
-from subscriber import Subscriber
+from domain_event.event import Event
+from domain_event.subscriber import Subscriber
 import unittest
 
 

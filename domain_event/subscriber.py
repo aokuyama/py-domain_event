@@ -1,4 +1,4 @@
-from event import Event
+from domain_event.event import Event
 import unittest
 
 
